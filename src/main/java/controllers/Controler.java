@@ -1,5 +1,7 @@
 package controllers;
 
-public class Controler
-{
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class Controler {
 }

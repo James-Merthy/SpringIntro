@@ -1,4 +1,4 @@
-package be.digitalcity.demointrospring;
+package be.digitalcity.demointrospring.controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

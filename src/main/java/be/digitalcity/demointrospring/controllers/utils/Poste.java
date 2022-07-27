@@ -1,0 +1,8 @@
+package be.digitalcity.demointrospring.controllers.utils;
+
+public enum Poste {
+
+    GARDIEN , BACK_GAUCHE , BACK_DROIT, LIBERO , AVANT_GAUCHE ,
+    AVANT_DROIT, ATTAQUANT , DEFENSEUR_CENTRAL ,MILIEUX_CENTRALE  , MILIEUW_GAUCHE,MILIEUX_DROIT
+    ,MILIEUX_DEFFENSIF , MILIEU_OFFENSIVE ,BU;
+}

@@ -1,4 +1,4 @@
-package controllers;
+package be.digitalcity.demointrospring.controllers.controllers;
 
 import org.springframework.stereotype.Controller;
 
